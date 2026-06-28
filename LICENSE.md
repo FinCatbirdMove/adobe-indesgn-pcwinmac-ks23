@@ -1,4 +1,4 @@
-# 
+# Código abierto Adobe InDesign filtros para Mac OS | Nuevo Adobe InDesign filtros para PC Windows. Con nodos de geometría y exportación PDF — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
